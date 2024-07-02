@@ -1,0 +1,7 @@
+[
+{
+  "directory": "G:/dev/Code/graphics/raytracing/experiments/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c G:\\dev\\Code\\graphics\\raytracing\\experiments\\main.cpp",
+  "file": "G:\\dev\\Code\\graphics\\raytracing\\experiments\\main.cpp"
+}
+]
