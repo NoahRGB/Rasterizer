@@ -1,1 +1,1 @@
-# Work in progress ray tracer
+# Work in progress basic rasterizer
